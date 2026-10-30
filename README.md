@@ -13,9 +13,9 @@ I enjoy turning raw data into clear answers, and I'm looking for a **data intern
 ## 📂 Projects
 - **Post-bac programmes in Occitanie** · database design and SQL analysis of higher-education programmes in Occitanie *(SQL Server)*
 - **Power BI dashboard** · interactive data dashboard *(Power BI)*
-- **Solitaire** · card game built in a team of two *(Python)*
+- **[Solitaire](https://github.com/Nesryne-akid/solitaire-python)** · terminal card game with 3 game modes, move hints, undo and save/load *(Python)*
 
-*Repositories coming soon.*
+*More repositories coming soon.*
 
 ## 🎯 What I'm looking for
 A data internship (data analysis, BI, data engineering) where I can combine technical skills with business understanding.
