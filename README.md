@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nesryne 👋
 
-<!--
-**Nesryne-akid/Nesryne-akid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+L3 MIAGE student at Université Toulouse 1 Capitole, with a background in **economics and management**.
+I enjoy turning raw data into clear answers, and I'm looking for a **data internship (4–6 months) starting May 2027** in Toulouse.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, SQL
+- **Databases:** SQL Server (data modelling, queries)
+- **Data visualisation:** Power BI
+- **Tools:** Git, GitHub
+- **Business side:** economics, management, real estate (BTS + internship)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **Post-bac programmes in Occitanie** · database design and SQL analysis of higher-education programmes in Occitanie *(SQL Server)*
+- **Power BI dashboard** · interactive data dashboard *(Power BI)*
+- **Solitaire** · card game built in a team of two *(Python)*
+
+*Repositories coming soon.*
+
+## 🎯 What I'm looking for
+A data internship (data analysis, BI, data engineering) where I can combine technical skills with business understanding.
