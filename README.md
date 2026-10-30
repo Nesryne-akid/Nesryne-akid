@@ -19,3 +19,6 @@ I enjoy turning raw data into clear answers, and I'm looking for a **data intern
 
 ## 🎯 What I'm looking for
 A data internship (data analysis, BI, data engineering) where I can combine technical skills with business understanding.
+
+## Contact
+LinkedIn: [Nesryne Akid](https://www.linkedin.com/in/nesryne-akid-742b77249/)
